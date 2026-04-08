@@ -13,11 +13,31 @@ To design and analyze diode clipper circuits
 # Circuit Diagram & Model Graph:
 
 
+<img width="1053" height="1600" alt="image" src="https://github.com/user-attachments/assets/894179cd-a1d9-4b45-bf08-f64f2514b954" />
+
+
+<img width="963" height="1600" alt="image" src="https://github.com/user-attachments/assets/a4a52721-d829-4806-afa2-e7fcb19d26fe" />
+
+
+
+
 # Tabular Column and Calculation:
+
+
+<img width="1080" height="1513" alt="image" src="https://github.com/user-attachments/assets/fd1ecd86-a741-44ab-956d-0c39492adb48" />
+
 
 
 # Graph:
 
 
+<img width="1423" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e1c3f92-f982-4c26-ba55-36b0fe6e68b7" />
+
+
+
  # Result:
+
+
+ <img width="1599" height="291" alt="image" src="https://github.com/user-attachments/assets/295c3e37-f976-4225-9d93-6be923ba1b1e" />
+
  
